@@ -1,0 +1,177 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    
+    
+    
+}
+
+#n1 {
+    position: fixed;
+    height: 69px;
+    margin: 0px;
+    width: 1200px;
+    text-decoration: underline;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    top: 0;
+    background-color: black;
+    border-bottom: 1px solid seashell;
+    padding: 5px;
+    flood-opacity: 0.5;
+
+}
+
+
+
+ #n1  .navbar a::before,
+ #n1  .navbar a::after {
+    display: inline-block;
+    content: "";
+    list-style:none;
+}
+
+ #n1  .navbar a:hover {
+    color: seashell;
+}
+
+#n1 .navbar a:visited {
+    color: seashell;
+}
+
+ li {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    top: 50%;
+    color: seashell;
+
+
+    padding: 10px;
+    
+}
+
+
+
+.big-image {
+    
+    height: 700px;
+    background-image:  url("file:///D:/Back%20up%20Mihai/Tea%20Cozy%20Project/Dev%20Project/resources/images/img-mission-background.jpg");
+    background-size: auto 700px;
+    border-bottom: 1px solid seashell;
+    margin: 69px;
+    
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#tea-cozy {
+    height: 50px;
+    width: 150px;
+    text-align: left;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+#n2 {
+  background-color: black;
+  width: 1200px;
+  height: auto;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    
+
+}
+
+.col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+  }
+
+.panel {
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+.third-object {
+    
+    width: auto;
+    height: 700px;
+    background-image: url("file:///D:/Back%20up%20Mihai/Tea%20Cozy%20Project/Dev%20Project/resources/images/img-locations-background.jpg");
+    background-size: auto 700px;
+    border-bottom: 1px solid seashell;
+    margin: 69px;
+    padding-top: 75px;
+    
+    
+}
+
+#n4 {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.last-thing {
+    background-color: black;
+    height: 200px;
+    text-align: center;
+    margin-top: 135px;
+    
+    justify-content: center;
+    
+} 
+
+#squares li {
+    height: auto;
+    width: 300px;
+    margin: 15px 40px;
+    background-color: black;
+    opacity: 1;
+   
+}
+
+#squares {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+#locations {
+    text-align: center;
+    
+    
+    
+}
+
+.endw {
+    
+    text-align: left;
+    margin-left: 20px;
+}
+
+#lth li {
+   
+    
+}
+
