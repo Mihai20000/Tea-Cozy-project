@@ -60,7 +60,7 @@ body {
 .big-image {
     
     height: 700px;
-    background-image:  url("file:///D:/Back%20up%20Mihai/Tea%20Cozy%20Project/Dev%20Project/resources/images/img-mission-background.jpg");
+    background-image:  url("img-mission-background.jpg");
     background-size: auto 700px;
     border-bottom: 1px solid seashell;
     margin: 69px;
@@ -114,7 +114,7 @@ img {
     
     width: auto;
     height: 700px;
-    background-image: url("file:///D:/Back%20up%20Mihai/Tea%20Cozy%20Project/Dev%20Project/resources/images/img-locations-background.jpg");
+    background-image: url("img-locations-background.jpg");
     background-size: auto 700px;
     border-bottom: 1px solid seashell;
     margin: 69px;
