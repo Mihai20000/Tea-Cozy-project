@@ -14,8 +14,8 @@ body {
     height: 69px;
     margin: 0px;
     width: 1200px;
-    min-width: 1200px;
-    max-width: 1500px;
+    min-width: 1150px;
+    max-width: 1250px;
     text-decoration: underline;
     display: flex;
     flex-direction: row;
