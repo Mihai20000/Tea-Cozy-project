@@ -15,7 +15,7 @@ body {
     margin: 0px;
     width: 1200px;
     min-width: 900px;
-    max-width: 1200px;
+    
     text-decoration: underline;
     display: flex;
     flex-direction: row;
