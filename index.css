@@ -14,7 +14,7 @@ body {
     height: 69px;
     margin: 0px;
     width: 1200px;
-    
+    min-width: 1500px;
     max-width: 2000px;
     text-decoration: underline;
     display: flex;
